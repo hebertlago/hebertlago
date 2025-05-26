@@ -33,7 +33,8 @@
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/hebert-lago/)
 - [GitHub](https://github.com/hebertlago/)
-- **Email**: hebertlagoo@gmail.com
+- [Email](hebertlagoo@gmail.com)
+
 
 ## Objetivo
 Acredito em uma abordagem orientada a resultados e estou sempre em busca de soluções escaláveis e eficientes. Tenho como objetivo colaborar em projetos que façam a diferença, automatizando processos e otimizando o desempenho das aplicações.
