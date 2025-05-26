@@ -33,7 +33,7 @@
 ## Conecte-se Comigo
 - [LinkedIn](https://www.linkedin.com/in/hebert-lago/)
 - [GitHub](https://github.com/hebertlago/)
-- [Email](hebertlagoo@gmail.com)
+- **Email**: hebertlagoo@gmail.com
 
 
 ## Objetivo
